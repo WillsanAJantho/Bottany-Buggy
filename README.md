@@ -1,6 +1,6 @@
 # Farm-Bot
 
-The Farm Bot is an innovative project aimed at revolutionizing agriculture in Indonesia by developing an autonomous robot capable of fully automating the entire farming process.
+The Farm Bot is an innovative project aimed at revolutionizing agriculture in Indonesia by developing an autonomous robot capable of fully automating the entire farming process. This system is integrated with an app.
 
 ![WhatsApp Image 2024-05-25 at 07 45 27](https://github.com/WillsanAJantho/Farm-Bot/assets/170993086/31c5ba4b-abee-42a3-9a57-aee201feafca)
 
