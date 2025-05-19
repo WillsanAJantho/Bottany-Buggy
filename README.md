@@ -19,3 +19,7 @@ The Bottany Buggy is an innovative project aimed at revolutionizing agriculture 
 # Working Mechanisms and Features
 1. Automatic watering system: whenever the soil moisture of one of the plants is under the optimal value the robot will go to that plant and water it using the water pump.
 2. Automatic Humidifier: Whenever the humidity drops below the optimal level, the ultrasonic mist actuator will activate to increase the air humidity in the plant's environment.
+
+# Bottany Buggy App
+source code: https://drive.google.com/drive/folders/1qO2v9kPiKGBIOybH5WvJ6CPNlO7_tDPU?usp=share_link
+
